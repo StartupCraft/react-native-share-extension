@@ -25,7 +25,12 @@
     "url": "https://github.com/ammarahm-ed/react-native-share-extension/issues"
   },
   "homepage": "https://github.com/ammarahm-ed/react-native-share-extension",
-  "dependencies": {
-    "react-native": "^0.63.1"
+  "devDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.5"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
   }
 }
